@@ -13,3 +13,6 @@
 
 ## Model Load
 > pip install scikit-learn
+
+X = 모델의 입력 데이터, 독립 변수
+y = 모델의 출력(타겟) 데이터, 종속 변수
