@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/a-08/mlflow/01.%20mlflow/mlruns/0/e0b6c41c4fba480ab2ba6b38db0798e5/artifacts
+end_time: 1723612202872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0b6c41c4fba480ab2ba6b38db0798e5
+run_name: useful-hen-833
+run_uuid: e0b6c41c4fba480ab2ba6b38db0798e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723612188276
+status: 3
+tags: []
+user_id: a-08
